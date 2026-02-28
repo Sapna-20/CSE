@@ -1,4 +1,4 @@
-# CSE Core Subjects – GATE Preparation Repository
+# CSE Core Subjects
 
 This repository contains organized study material for important Computer Science subjects.
 All subjects are arranged in separate folders so that notes, assignments, previous year questions, and lab work remain structured and easy to access.
@@ -38,14 +38,16 @@ CSE-Core-Subjects
 ├── C-Programming
 │   ├── Notes
 │   ├── Assignments
-│   ├── Programs
+│   ├── PYQ
+│   ├── Short-Notes
 │   └── Lab
 │
 ├── Discrete-Mathematics
 │   ├── Notes
 │   ├── Assignments
 │   ├── PYQ
-│   └── Short-Notes
+│   ├── Short-Notes
+│   └── Lab
 │
 ├── Database-Management-Systems
 │   ├── Notes
@@ -58,14 +60,15 @@ CSE-Core-Subjects
 │   ├── Notes
 │   ├── Assignments
 │   ├── PYQ
-│   └── Short-Notes
+│   ├── Short-Notes
+│   └── Lab
 │
 └── Data-Structures-and-Algorithms
     ├── Notes
     ├── Assignments
-    ├── Problems
     ├── PYQ
-    └── Short-Notes
+    ├── Short-Notes
+    └── Lab
 ```
 
 ---
@@ -74,26 +77,27 @@ CSE-Core-Subjects
 
 The repository currently includes the following core Computer Science subjects:
 
-* Operating Systems
-* Computer Networks
-* Compiler Design
-* C Programming
-* Discrete Mathematics
-* Database Management Systems
-* Theory of Computation
-* Data Structures and Algorithms
+Operating Systems
+Computer Networks
+Compiler Design
+C Programming
+Discrete Mathematics
+Database Management Systems
+Theory of Computation
+Data Structures and Algorithms
 
 ---
 
 ## Purpose of the Repository
 
-* Maintain structured notes for core Computer Science subjects
-* Practice assignments and programming problems
-* Solve and store previous year GATE questions
-* Keep short notes for quick revision
+Maintain structured notes for core Computer Science subjects
+Practice assignments and programming problems
+Solve and store previous year GATE questions
+Keep short notes for quick revision
+Maintain lab work and practical implementations
 
 ---
 
 ## Notes
 
-This repository is continuously updated as new notes, assignments, and problems are added.
+This repository will be updated regularly as more notes, assignments, lab work, and problems are added.
