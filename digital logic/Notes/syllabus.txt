@@ -1,0 +1,125 @@
+Computer Network – Syllabus
+
+Course Distribution
+
+70% Coverage
+
+1. Introduction to Computer Network
+2. Physical Layer
+3. Data Link Layer
+4. Network Layer
+
+30% Coverage
+5. Transport Layer
+6. Application Layer
+
+1. Introduction to Computer Network
+
+1.1 History / Need of CN
+1.2 Network Models – OSI, TCP/IP
+1.3 Introduction to OSI Model
+1.4 Functions of each layer
+1.5 Introduction to TCP/IP Model
+1.6 Introduction to IP and its supporting protocols
+1.7 Introduction to TCP
+
+2. Physical Layer
+
+2.1 Introduction to Signals
+ 2.1.1 Analog – Period, Frequency, Amplitude
+ 2.1.2 Digital – Bit
+
+2.2 Signal Encoding Techniques
+
+2.3 Bandwidth, Throughput and Delay (Numericals)
+
+2.4 Multiplexing
+ 2.4.1 FDM
+ 2.4.2 WDM
+ 2.4.3 TDM
+
+3. Data Link Layer
+
+3.1 Error Detection vs Correction
+3.2 Logic for Error Detection
+3.3 Hamming Distance / Minimum Hamming Distance
+
+3.4 Linear Block Codes
+ 3.4.1 Simple Parity Check Code
+ 3.4.2 Two Dimensional Parity
+ 3.4.3 CRC
+ 3.4.4 Checksum
+ 3.4.5 Hamming Code
+
+3.5 Framing
+
+3.6 Flow and Error Control
+ 3.6.1 Stop and Wait
+ 3.6.2 Go Back N
+ 3.6.3 Selective Repeat
+ 3.6.4 Sliding Window
+
+3.7 Access Control
+
+Channelization Protocols
+ FDMA
+ TDMA
+ CDMA
+
+Controlled Access Protocols
+ Reservation
+ Token Passing
+ Polling
+
+Random Access Protocols
+ ALOHA
+ Slotted ALOHA
+ CSMA
+ CSMA/CA
+ CSMA/CD
+
+3.8 Ethernet
+
+3.9 Connecting Devices
+ Repeater
+ Hub
+ Bridge
+ Switch
+ Router
+ Gateway
+
+4. Network Layer
+
+4.1 IP Addressing
+ Classful – Subnetting, Supernetting
+ Classless – Subnetting, Supernetting
+
+4.2 Special Address in IPv4 Scheme
+
+4.3 IPv4 Header
+
+4.4 Supporting Protocols of IP
+ ARP
+ RARP
+ BOOTP
+ DHCP
+ ICMP
+ IGMP
+
+4.5 Delivery, Forwarding and Routing
+
+5. Transport Layer
+
+5.1 Introduction to Transport Layer
+5.2 UDP
+5.3 TCP
+5.4 Congestion Control
+
+6. Application Layer
+
+6.1 Network Security
+6.2 DNS
+6.3 Telnet
+6.4 Email
+6.5 FTP
+6.6 HTTP
