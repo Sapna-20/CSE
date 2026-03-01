@@ -92,7 +92,7 @@ Data Structures and Algorithms
 
 Maintain structured notes for core Computer Science subjects
 Practice assignments and programming problems
-Solve and store previous year GATE questions
+Solve and store previous year questions
 Keep short notes for quick revision
 Maintain lab work and practical implementations
 
